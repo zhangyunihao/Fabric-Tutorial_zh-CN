@@ -3,7 +3,7 @@
 [Fabric官网](http://fabricjs.com/articles/)
 
 - [第一部分](./part-1.md)
-  - 为什么要做fabric
+  - 为什么开发fabric
   - Fabric中的对象
   - Canvas
   - 图像

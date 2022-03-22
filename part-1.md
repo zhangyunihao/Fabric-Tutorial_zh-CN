@@ -8,7 +8,7 @@ Fabric开发始于2010年，在发现使用原生canvas的API非常痛苦之后�
 
 让我们看得更仔细些吧！
 
-## 为什么选择fabric
+## 为什么开发fabric
 
 [Canvas](http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html)可以让我们在网络上创造出绝对惊人的图形。但它提供的API是令人失望的。如果我们只想在画布上画几条基本的形状，不会觉得有什么繁琐。但是一旦需要任何形式的互动，任何时候改变图片或绘制更复杂的形状，代码复杂度会急剧增加。
 
